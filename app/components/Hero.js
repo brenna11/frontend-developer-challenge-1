@@ -51,7 +51,7 @@ const Hero = () => {
       <div className="text-center">
         <h1 className="text-4xl font-semibold tracking-wide mb-4 text-neutral">Explore Your Interests</h1>
         <h3 className="text-xl font-normal tracking-normal text-beige">
-          We'll recommend content based on your interests we've listed here.
+          We&apos;ll recommend content based on your interests we&apos;ve listed here.
         </h3>
         <h3 className="text-xl font-normal tracking-normal mb-10 text-beige">
           Feel free to add or remove topics to customize your experience.

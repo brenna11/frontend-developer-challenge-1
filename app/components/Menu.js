@@ -106,7 +106,7 @@ const Menu = () => {
 
       <ThemeSwitcher />
       <div className='w-8 rounded-full'>
-        <Image src={Human} />
+        <Image alt="profile pic" src={Human} />
       </div>
 
       {/* Popover (Desktop) */}
